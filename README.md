@@ -1,3 +1,17 @@
+INITIAL STEPS
+
+```bash
+sudo apt install gazebo11 ros-humble-gazebo-ros-pkgs ros-humble-gazebo-ros
+```
+```bash
+sudo apt install ros-humble-dynamixel-sdk
+```
+```bash
+sudo apt install ros-humble-cartographer ros-humble-cartographer-ros
+```
+```bash
+sudo apt install ros-humble-nav2-bringup
+```
 
 # BOOTCAMP_ROS
 SLAM & SIMULTANIOUS NAVIGATION
