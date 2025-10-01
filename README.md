@@ -1,7 +1,7 @@
 INITIAL STEPS
 
 ```bash
-sudo apt install gazebo11 ros-humble-gazebo-ros-pkgs ros-humble-gazebo-ros
+sudo apt install gazebo ros-humble-gazebo-ros-pkgs ros-humble-gazebo-ros
 ```
 ```bash
 sudo apt install ros-humble-dynamixel-sdk
